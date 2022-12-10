@@ -1,4 +1,7 @@
 * {
+
+
+
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -662,6 +665,16 @@ p{
   font-size: 14px!important;
   text-align: center;
 }
+
+.font-size-14{
+  font-size: 14px!important;
+}
+
+.climacon .sunset{
+  height: 50px;
+  width: 55px;
+}
+
 
 .font-size-14{
   font-size: 14px!important;
